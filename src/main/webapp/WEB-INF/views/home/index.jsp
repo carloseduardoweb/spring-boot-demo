@@ -49,7 +49,7 @@
 		<div id="brl-button">
 			<img src="http://www.setupmyproject.com/images/flags/ptbr.png" alt="brazilian flag"/> 
 			<p class="textPay">
-				A nossa ideia ?? que voc?? inicie o seu projeto o mais r??pido poss??vel, sem perder tempo configurando frameworks e outros detalhes. Ainda tem muito mais por vir, projetos j?? com templates configurados, mais op????es de plugins dentro dos frameworks etc. Entendemos que nosso projeto realmente faz voc?? economizar tempo, ent??o, se for poss??vel, gostar??amos que voc?? nos desse uma ajuda fazendo uma doa????o.  									
+				A nossa ideia ?? que voc?? inicie o seu projeto o mais r??pido poss??vel, sem perder tempo configurando frameworks e outros detalhes. Ainda tem muito mais por vir, projetos j?? com templates configurados, mais op????es de plugins dentro dos frameworks etc. Entendemos que nosso projeto realmente faz voc?? economizar tempo, ent??o, se for poss??vel, gostar??amos que voc?? nos desse uma ajuda fazendo uma doa????o.   									
 			</p>
 			<p class="textPay">
 				A nossa conta do Paypal ?? brasileira e, se a sua conta no Paypal tamb??m for brasileira, por conta das leis do nosso pa??s, temos que pedir que voc?? doe em reais. Ao lado tem a nossa sugest??o :).
